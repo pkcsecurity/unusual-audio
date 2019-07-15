@@ -1,0 +1,1 @@
+/private/var/folders/g3/pzq0ttc17rqffwtprzq_450c0000gp/T/embedded-pg/PG-b210101549c90a94dbbada389b65c5d2/bin/postgres "-D" "resources/private/development-db" "-p" "55432" "-F" "-c" "synchronous_commit=off" "-c" "max_connections=300" "-c" "timezone=UTC"
